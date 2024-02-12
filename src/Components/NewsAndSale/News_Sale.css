@@ -1,0 +1,11 @@
+.news-sale-container{
+    margin-top:105px;
+    margin-bottom: 100px;
+    text-align: center;
+}
+.news-sale-title{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 30px;
+    color:rgb(150, 144, 144);
+    margin-bottom: 30px;
+}

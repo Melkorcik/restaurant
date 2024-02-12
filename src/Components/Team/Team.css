@@ -1,0 +1,14 @@
+.team-container{
+    display: block;
+    margin-top: 100px;
+    text-align: center;
+}
+.team-title{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.team-description{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 16px;
+    padding:10px 60px 30px 60px;
+    line-height: 30px;
+}

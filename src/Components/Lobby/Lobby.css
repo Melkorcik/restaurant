@@ -1,0 +1,13 @@
+.lobby-container{
+    display:block;
+    margin-top: 90px;
+    height: 700px;
+    width: 100%;  
+    text-align: center;
+}
+ 
+.lobby-title{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:rgb(97, 91, 91);
+    font-size: 40px;
+}

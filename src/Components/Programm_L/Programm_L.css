@@ -1,0 +1,14 @@
+.programm-container{
+    display: block;
+    width: 1000px;
+    margin-inline: auto;
+    margin-top: -30px;
+    text-align: center;
+}
+.programm-title{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.programm-description{
+    font-family: 'Courier New', Courier, monospace;
+    line-height: 30px;
+}

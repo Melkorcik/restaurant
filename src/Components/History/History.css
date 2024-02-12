@@ -1,0 +1,15 @@
+.history-container{
+    margin-top: 100px;
+    text-align: center;
+}
+.history-title{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 50px;
+    color:rgb(144, 139, 139);
+}
+.history-description{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 19px;
+    padding:10px 60px 30px 60px;
+    line-height: 30px;
+}

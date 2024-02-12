@@ -1,0 +1,17 @@
+.container-menu{
+    display: block;
+    margin-inline: auto;
+    margin-bottom: 100px;
+    width:560px;
+    height: auto;
+    text-align: center;
+}
+.title-menu{
+    font-size: 50px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:rgb(97, 91, 91);
+}
+.content-menu{
+    font-size: 29px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}

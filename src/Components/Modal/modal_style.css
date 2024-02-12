@@ -1,0 +1,59 @@
+.form{
+    display:block;
+    width:310px;
+    height: auto;
+    text-align: center;/*также дйствует и на inputs */
+    background-color: whitesmoke;
+    border-radius: 12px;
+    z-index: 12;
+    position: fixed;
+    top: 30%;
+    left:40%;
+    box-shadow:0px 0px 6px 3px black;
+}
+.title-modal{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.name-input-modal, 
+.number-input-modal, 
+.email-input-modal, 
+.human-input-modal, 
+.comments-textarea-modal, 
+.date-input-modal, 
+.time-input-modal, 
+.btn-modal{
+    margin-bottom: 12px;
+}
+.name-input-modal, 
+.number-input-modal, 
+.email-input-modal, 
+.human-input-modal, 
+.date-input-modal,
+.time-input-modal{
+    padding:6px;
+}
+.name-input-modal, 
+.number-input-modal, 
+.email-input-modal, 
+.human-input-modal{
+    width:243px;
+}
+.comments-textarea-modal{
+    width:253px;
+    height: 42px;
+}
+.btn-modal{
+    padding:11px;
+    border:none;
+    background-color: rgb(213, 216, 216);
+}
+.name-input-modal:focus,  /*При фокусе border будет зленый*/
+.number-input-modal:focus, 
+.email-input-modal:focus, 
+.human-input-modal:focus, 
+.date-input-modal:focus,
+.time-input-modal:focus,
+.comments-textarea-modal:focus{
+    /* border:.5px solid rgb(31, 149, 31); */
+    outline: .5px solid rgb(31, 149, 31);
+}

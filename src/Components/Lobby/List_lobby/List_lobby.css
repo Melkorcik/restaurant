@@ -1,0 +1,30 @@
+.img-lobby{
+    width:400px;
+    height: 500px;
+}
+.lobby-description{
+    position: absolute;
+    top: 0px;
+    display: block;
+    padding-top: 100px;
+    width:400px;
+    height: 400px;
+    background-color: whitesmoke;
+    opacity: 0;
+}
+.lobby-title-card{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.lobby-description-card{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:rgb(58, 149, 165);
+    padding:23px;
+}
+.lobby-description:hover{
+    transition:.3s;
+    opacity: 0.9;
+}
+.lobby-description:not(:hover){
+    transition:.3s;
+    opacity: 0;
+}

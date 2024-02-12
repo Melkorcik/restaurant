@@ -1,0 +1,24 @@
+.footer-contact-info{
+    display: block;
+    margin-top: 60px;
+    width:300px;
+    height: auto;
+}
+.footer-description-box{
+    color: rgb(92, 147, 149);
+}
+.footer-main-title{
+    color: rgb(187, 240, 241);
+}
+.footer-address, .footer-phone, .footer-email, .footer-time-work{
+    color: rgb(149, 200, 202);
+}
+.mode-work{
+    display: block;
+    width:190px;
+    line-height: 20px;
+    color: rgb(92, 147, 149);
+}
+.imgl{
+    margin-top: 20px;
+}

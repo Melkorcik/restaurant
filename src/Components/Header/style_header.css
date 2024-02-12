@@ -1,0 +1,77 @@
+.title-logo{
+    display:block;
+    text-align:center;
+}
+
+.header{
+    display:flex; 
+    position:fixed;
+    transition:.9s;
+    justify-content:center;
+    align-items:end; 
+    line-height: 12px; 
+    width:100%; 
+    border:.6px solid rgb(228, 220, 220);
+    background-color: rgba(228, 220, 220, 0.8);
+    z-index: 6;
+}
+ 
+.image-logo{
+    display: block;
+    height:190px; 
+    width:190px; 
+    margin-bottom: -30px;
+    margin-left:12px;
+}
+
+.hotel, .hotel-name{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.restaurant-address, .restaurant-phone-number{
+    font-family: 'Courier New', Courier, monospace;
+    font-size:13px;
+}
+
+.contacts{
+    display:flex; 
+    position:absolute; 
+    top:6px;
+}
+
+.link-a-menu{
+    text-decoration: none;
+    position:relative;
+    padding-bottom:6px;
+    color:black;
+}
+
+.link-a-menu:hover{
+    cursor: pointer;
+}
+
+.list{
+    display: flex;
+    list-style-type: none;
+}
+
+.link-list{
+    display:block;
+    margin-right: 60px;
+}
+
+.link-list .link-a-menu::before{
+    content:'';
+    bottom:0;
+    left:0;
+    position:absolute;
+    width: 100%;
+    opacity: 0;
+    height: 2px;
+    background-color: black;
+    transition:0.3s;
+}
+
+.link-list .link-a-menu:hover:before{
+    opacity: 1;
+}

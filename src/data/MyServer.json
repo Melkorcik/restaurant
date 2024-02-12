@@ -1,0 +1,66 @@
+{
+    "menu":[
+        {
+            "img_food":"https://media.istockphoto.com/id/517168031/ru/%D1%84%D0%BE%D1%82%D0%BE/%D0%B2%D0%BA%D1%83%D1%81%D0%BD%D1%8B%D0%B5-%D0%B8%D0%B7%D1%8B%D1%81%D0%BA%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5-%D0%B1%D0%BB%D1%8E%D0%B4%D0%B0.jpg?s=2048x2048&w=is&k=20&c=BDKephjZiQhZX5UFg3BzhZvwAFSDJ_z7f16Ol2U1bag=",
+            "title_menu":"БИЗНЕС-ЛАНЧИ",
+            "description_menu":"Теперь Вы можете заказать бизнес-ланч с доставкой в офис. Стоимость бизнес-ланча: 490руб. При заказе от 3-х ланчей доставка бесплатная; при заказе 5-ти ланчей - 1 литр домашнего морса в подарок. Скидка 15% НЕ РАСПРОСТРАНЯЕТСЯ.",
+            "button_menu_first":"меню бизнес-ланчей",
+            "button_menu_second":""
+        },
+        {
+            "img_food":"https://media.istockphoto.com/id/510534973/ru/%D1%84%D0%BE%D1%82%D0%BE/%D0%BF%D0%B0%D0%BD-%D0%B6%D0%B0%D1%80%D0%B5%D0%BD%D0%B0%D1%8F-%D1%82%D0%B8%D0%BB%D1%8F%D0%BF%D0%B8%D1%8F-%D1%81-%D0%B0%D0%B7%D0%B8%D0%B0%D1%82%D1%81%D0%BA%D0%BE%D0%B9-slaw-%D0%B8-%D0%B6%D0%B0%D1%80%D0%B5%D0%BD%D1%8B%D0%B9-%D0%BA%D0%B0%D1%80%D1%82%D0%BE%D1%84%D0%B5%D0%BB%D1%8C.jpg?s=2048x2048&w=is&k=20&c=kH50LndV93KKLlENnqbgoqsBHfDpeLVRThwm_j6VVtA=",
+            "title_menu":"МЕНЮ РЕСТОРАНА",
+            "description_menu":"Основное меню - фундамент нашего ресторана. Именно оно диктует условия, формирует характер, создает историю. Здесь собраны самые лучшие вариации блюд, выбор котрых позволит удовлитворить вкус каждого гостя. Откройтк меню и вместе с ним - новые грани вкусов.",
+            "button_menu_first":"основное меню",
+            "button_menu_second":"детское меню"
+        },
+        {
+            "img_food":"https://media.istockphoto.com/id/1186938002/ru/%D1%84%D0%BE%D1%82%D0%BE/%D0%B2%D0%B5%D0%B3%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D0%BE%D0%B1%D0%B5%D0%B4-%D1%88%D0%BE%D0%BA%D0%BE%D0%BB%D0%B0%D0%B4%D0%BD%D0%B0%D1%8F-%D1%87%D0%B0%D1%88%D0%B0-%D0%B4%D0%BB%D1%8F-%D1%81%D0%BC%D1%83%D0%B7%D0%B8-%D1%87%D0%B0%D1%88%D0%B0-%D0%B1%D1%83%D0%B4%D0%B4%D1%8B-%D1%81-%D1%82%D0%BE%D1%84%D1%83-%D0%BD%D1%83%D1%82%D0%BE%D0%BC-%D0%B8-%D0%BA%D0%B8%D0%BD%D0%BE%D0%B0-%D1%87%D0%B5%D1%87%D0%B5%D0%B2%D0%B8%D1%87%D0%BD%D1%8B%D0%B9-%D1%81%D1%83%D0%BF-%D0%B8.jpg?s=2048x2048&w=is&k=20&c=sAtm0h_jWN8KScj-KwSJDTZvUk2ogjnF6Bo0iF-HijI=",
+            "title_menu":"БАРНАЯ КАРТА И КОКТЕЙЛИ",
+            "description_menu":"Прогулка по страницам винной и коктейльной карты - путешествие. Здесь есть чем удивить гостя с любыми запросами и возможностями. Спланируйте это путешествие прямо сейчас.",
+            "button_menu_first":"карта вин",
+            "button_menu_second":"коктейли"
+        },
+        {
+            "img_food":"https://media.istockphoto.com/id/1144823591/ru/%D1%84%D0%BE%D1%82%D0%BE/%D1%81%D0%BF%D0%B0%D0%B3%D0%B5%D1%82%D1%82%D0%B8-%D0%B2-%D0%B1%D0%BB%D1%8E%D0%B4%D0%B5-%D0%BD%D0%B0-%D0%B1%D0%B5%D0%BB%D0%BE%D0%BC-%D1%84%D0%BE%D0%BD%D0%B5.jpg?s=2048x2048&w=is&k=20&c=hOH8Ugj7QGsRc9j6_ggarrVclCXXMupys99QWayD_1c=",
+            "title_menu":"ПЕКАРНЯ И КОНДИТЕРСКАЯ",
+            "description_menu":"Фирменные аутентичные сорта хлеба можно приобрести с собой или попробовать в ресторане в лобби-баре. Здесь же Вы найдете и сдобную выпечку. Стоит надкусить и остановиться уже не возможно.",
+            "button_menu_first":"подробнее",
+            "button_menu_second":"торты на заказ"
+        }
+    ],
+    "lobby-bar":[
+        {
+            "img_lobby_bar":"https://media.istockphoto.com/id/1125725514/ru/%D1%84%D0%BE%D1%82%D0%BE/%D0%BC%D0%B5%D1%81%D1%82%D0%BE-%D0%BE%D0%BD%D0%BE.jpg?s=2048x2048&w=is&k=20&c=1gWBPl856VJ_FwnpmmdejT93Lj1O7XotJCgVAdnxhdQ=",
+            "title_lobby_bar":"БАР", 
+            "description_lobby_bar":"Ассортимент бара нсчитывает более 200 позиций крепкого и некрепкого алкоголя, и более 100 позиций коктейлей."
+        },
+        {
+            "img_lobby_bar":"https://media.istockphoto.com/id/1081719640/ru/%D1%84%D0%BE%D1%82%D0%BE/%D0%B1%D0%B0%D1%80-%D0%BD%D0%B8%D0%BA%D0%BE%D0%B3%D0%B4%D0%B0-%D0%BD%D0%B5-%D0%B1%D1%8B%D0%BB-%D0%BB%D1%83%D1%87%D1%88%D0%B5.jpg?s=2048x2048&w=is&k=20&c=zKEyE0Dn-_W4dig4CqxuwTcnEw8EWqXuTwcKpiRVS4U=",
+            "title_lobby_bar":"ВИННЫЙ ШКАФ", 
+            "description_lobby_bar":"На карте более 80 позиций, среди которых вина из резерва бара, несколько трендовых позиций, а также органические вина."
+        },
+        {
+            "img_lobby_bar":"https://media.istockphoto.com/id/1199894635/ru/%D1%84%D0%BE%D1%82%D0%BE/%D0%BE%D0%B1%D0%B5%D0%B4%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9-%D1%81%D1%82%D0%BE%D0%BB.jpg?s=2048x2048&w=is&k=20&c=vmYFBoUGDha4p0-Vg84CWBE9RORpQd9e52swv15VApw= ",
+            "title_lobby_bar":"АТМОСФЕРА", 
+            "description_lobby_bar":"В основе дизайна принципы нео-классицизма, а акцентами послужили хрупкие стеклянные плафоны, сверкающий, сверкающий винный шкаф и изображение единорго как символа отеля."
+        }
+    ],
+    "news":[
+        {
+            "img_news":"https://media.istockphoto.com/id/1468244834/ru/%D1%84%D0%BE%D1%82%D0%BE/%D0%B6%D0%B5%D0%BD%D1%89%D0%B8%D0%BD%D0%B0-%D0%BF%D0%BE%D0%BA%D1%83%D0%BF%D0%B0%D0%B5%D1%82-%D0%BA%D0%BE%D1%81%D0%BC%D0%B5%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5-%D1%82%D0%BE%D0%B2%D0%B0%D1%80%D1%8B-%D0%B8-%D1%81%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82-%D0%BD%D0%B0-%D0%B4%D0%B5%D0%BD%D1%8C-%D1%80%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F-%D0%B2-%D1%81%D0%B0%D0%BB%D0%BE%D0%BD%D0%B5-%D0%BA%D1%80%D0%B0%D1%81%D0%BE%D1%82%D1%8B.jpg?s=2048x2048&w=is&k=20&c=0DTHW3gXp5tLQeQrGh9XXfPSSz0FNfQKx0aTK-2CoGs=",
+            "title_news":"ПОДАРОЧНЫЕ СЕРТИФИКАТЫ ГК 'ПОКРОВСКИЙ'",
+            "description_news":"На лобби-баре Вы можете приобрести сертификаты номиналом 500, 1000, 3000 и 5000 рублей. Сертификат действует в течениии 6 месяцев, с момента приобретения и распространяется на услуги ресторана, салона красоты и спа-зоны"
+        },
+        {
+            "img_news":"https://media.istockphoto.com/id/468993258/ru/%D1%84%D0%BE%D1%82%D0%BE/%D0%B1%D0%B8%D0%B7%D0%BD%D0%B5%D1%81-%D0%BE%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F-%D0%BD%D0%B0-%D0%BE%D0%B1%D0%B5%D0%B4-%D1%81-%D0%BA%D0%BE%D0%BB%D0%BB%D0%B5%D0%B3%D0%B0%D0%BC%D0%B8.jpg?s=2048x2048&w=is&k=20&c=b5v5T9rLdVZgieYfUQe2EDoUrj0oupaeZvXIPHctTEI=",
+            "title_news":"НАПОМИНАЕМ О ДРЕСС-КОДЕ",
+            "description_news":"Мы очень рады видеть наших гостей и спешим напомнить, что в ресторане действует дресс-код Smart Casusal."
+        },
+        {
+            "img_news":"https://media.istockphoto.com/id/1290273688/ru/%D1%84%D0%BE%D1%82%D0%BE/%D0%B6%D0%B5%D0%BD%D1%89%D0%B8%D0%BD%D0%B0-%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D0%B8%D1%8F-%D1%80%D0%BE%D0%B6%D0%B4%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D0%BF%D0%BE%D0%B4%D0%B0%D1%80%D0%BE%D0%BA-%D1%81%D0%B8%D0%B4%D1%8F-%D0%B2-%D0%BA%D0%B0%D1%84%D0%B5.jpg?s=2048x2048&w=is&k=20&c=qApiQsePpZlR6CYolo8FsHylrgBQVH4SGJyq3gyVGow=",
+            "title_news":"ПОДАРОК В ЧЕСТЬ ДНЯ РОЖДЕНИЯ",
+            "description_news":"Отпразднуйте свой День Рождения в реторане и получите скидуку 15% (на блюда из основного меню ресторана)"
+        }
+    ]
+}

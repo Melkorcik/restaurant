@@ -1,0 +1,17 @@
+.about{
+    display: block;
+    margin-inline: auto;
+    margin-top:100px;
+    width: 800px;
+    height: auto;
+    text-align: center;
+}
+.title-about{
+    font-size: 50px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:rgb(97, 91, 91);
+}
+.description-about{
+    font-size: 33px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
